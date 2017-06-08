@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToulouseBigData</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- common -->
+    <string name="validate">Valider</string>
+
+    <!-- type of maps -->
+    <string name="map_type_none">Pas de vue</string>
+    <string name="map_type_normal">Vue normale</string>
+    <string name="map_type_satellite">Vue Satellite</string>
+    <string name="map_type_hybrid">Vue mixte</string>
+
+    <!-- map layout -->
+    <string name="edit_text">Indiquez une adresse</string>
+
+</resources>
